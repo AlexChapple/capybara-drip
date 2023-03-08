@@ -1,0 +1,26 @@
+{
+  "name": "capybara-drip",
+  "displayName": "Capybara Drip",
+  "description": "Capybara drip",
+  "version": "0.0.1",
+  "publisher": "Acha",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Capybara Drip",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Capybara Drip-color-theme.json"
+      }
+    ]
+  }
+}
