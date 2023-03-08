@@ -2,7 +2,7 @@
   "name": "capybara-drip",
   "displayName": "Capybara Drip",
   "description": "Capybara drip",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "Acha",
   "engines": {
     "vscode": "^1.76.0"
