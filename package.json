@@ -2,14 +2,14 @@
   "name": "capybara-drip",
   "displayName": "Capybara Drip",
   "description": "Capybara drip",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "publisher": "Acha",
   "engines": {
     "vscode": "^1.76.0"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/AlexChapple/capybara-drip"
   },
   "categories": [
     "Themes"
@@ -22,5 +22,6 @@
         "path": "./themes/Capybara Drip-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "icons/Capybara_Drip.png"
 }
