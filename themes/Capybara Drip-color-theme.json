@@ -96,7 +96,8 @@
 				"keyword.operator.assignment.python",
 				"keyword.operator.comparison.python",
 				"keyword.operator.arithmetic.python",
-				"keyword.operator.logical.python"
+				"keyword.operator.logical.python",
+				"entity.other.attribute-name.js.jsx"
 			],
 			"settings": {
 				"foreground": "#71f08f", //f07178, 71f08f
